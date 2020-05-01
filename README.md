@@ -1,6 +1,6 @@
-# Random Number Generation CLI
+# Random Number Shuffle CLI Using Python
 
-Building a simple CLI that prints the numbers from 1 to 10 in random orders to the terminal usin Python
+Building a simple CLI that prints the numbers from 1 to 10 in random orders to the terminal using Python
 
 1.Setup the filesystem structure
   CLIApplication/
