@@ -60,3 +60,8 @@ Random List
 [2, 5, 0, 4, 7, 1, 6, 9, 8, 3]
   
 
+Steps To Run the CLI
+---------------------
+git clone https://github.com/GeethP91/CLIApplication.git
+cd CLIApplication
+run ./install.sh
